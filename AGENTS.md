@@ -76,7 +76,8 @@ command reference and dev tool usage.
 
 ## Architecture
 
-See `docs/architecture/overview.md` for the full design.
+The `docs/architecture/overview.md` document must be read so that the agent
+has the full design in context.
 
 **Crate dependency flow:**
 

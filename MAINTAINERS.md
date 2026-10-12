@@ -16,11 +16,12 @@ definitions and processes.
 
 ## Maintainers
 
-| Name           | Repos    | GitHub       | Affiliation |
-| -------------- | -------- | ------------ | ----------- |
-| Fred Araujo    | Policy   | [@araujof]   | IBM         |
-| Sam Batschelet | Grid     | [@hexfusion] | Red Hat     |
-| Sebastien Han  | Core, AI | [@leseb]     | Red Hat     |
+| Name            | Repos    | GitHub       | Affiliation |
+| --------------- | -------- | ------------ | ----------- |
+| Brent Salisbury | Grid     | [@nerdalert] | Red Hat     |
+| Fred Araujo     | Policy   | [@araujof]   | IBM         |
+| Sam Batschelet  | Grid     | [@hexfusion] | Red Hat     |
+| Sebastien Han   | Core, AI | [@leseb]     | Red Hat     |
 
 [@araujof]: https://github.com/araujof
 [@hexfusion]: https://github.com/hexfusion

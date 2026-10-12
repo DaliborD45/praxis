@@ -1,5 +1,11 @@
 # Development Conventions
 
+The following is a quickstart with regard to the project's development
+conventions. For the full documentation, including project scaffolding, etc
+see [praxis-proxy/conventions].
+
+[praxis-proxy/conventions]: https://github.com/praxis-proxy/conventions
+
 ## Coding Style
 
 ### General Principles
