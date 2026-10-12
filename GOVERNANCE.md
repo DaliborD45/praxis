@@ -115,8 +115,8 @@ To be nominated as a review:
    Demonstrates a will to **put the good of the project
    and the community above theirs or their organizations
    needs**.
-5. Nomination by an existing reviewer
-6. Approval by the Project Lead
+4. Nomination by an existing reviewer
+5. Approval by the Project Lead
 
 Nominations are made via a GitHub issue. The
 nominee should have a track record of quality
@@ -137,7 +137,7 @@ potential to return later.
 ## Decision Making
 
 Decisions are made by lazy consensus among
-reviewers. Silence is _not_ consent.
+reviewers. Silence is *not* consent.
 
 When consensus cannot be reached:
 
