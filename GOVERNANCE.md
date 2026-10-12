@@ -1,7 +1,3 @@
-> **WARNING**: TBD - we're applying for CNCF sandbox
-> so this is not in effect yet and is subject to
-> change.
-
 # Governance
 
 Praxis is a CNCF Sandbox project governed by this
@@ -78,8 +74,6 @@ required.
 Project Leads oversee all aspects of the project
 and all repositories. They serve as the final
 decision-makers when consensus cannot be reached.
-
-The current Project Lead is [@shaneutt](https://github.com/shaneutt).
 
 ### Reviewers
 
