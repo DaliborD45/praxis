@@ -19,6 +19,13 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ### Added
 
+- `policy` filter accepts `context_headers` and `context_meta` configuration.
+  `context_headers` maps reserved-prefix HTTP headers to typed `agent.*` /
+  `framework.*` extension fields (via a closed `ContextField` enum) so APL
+  rules can reference host-injected values. `context_meta` stamps operator-
+  defined `scope`, `tags`, and `properties` onto every policy evaluation;
+  `scope` feeds the PPE's scoped route resolver for both authentication and
+  authorization. ([#1388](https://github.com/praxis-proxy/praxis/pull/1388))
 - A network backend contract, so an alternative to Pingora can be dropped
   in behind a Cargo feature: `praxis_core::server::ServerRuntime`,
   `praxis_core::egress::{PeerSpec, Connector, Session}`,
