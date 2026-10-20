@@ -160,6 +160,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 
 ### Security
 
+- Updated `rustls-webpki` to 0.103.16 to reject certificate paths containing
+  distrusted emSign intermediate public keys (`RUSTSEC-2026-0382`).
 - URL-mode sub-requests no longer include their path in debug connection
   events. Paths supplied by clients can contain bearer tokens or signed
   download identifiers; the actual outbound request target is unchanged.
